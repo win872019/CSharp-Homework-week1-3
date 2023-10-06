@@ -1,2 +1,2 @@
-# CSharp-Homework
-week1-7
+# CSharp-Homework week1-3
+week1-3
