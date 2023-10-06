@@ -1,0 +1,29 @@
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\bin\Debug\net6.0\week2-HW.exe
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\bin\Debug\net6.0\week2-HW.deps.json
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\bin\Debug\net6.0\week2-HW.runtimeconfig.json
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\bin\Debug\net6.0\week2-HW.dll
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\bin\Debug\net6.0\week2-HW.pdb
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.AssemblyInfo.cs
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.dll
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\refint\week2-HW.dll
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.pdb
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\week2-HW.genruntimeconfig.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\week2-HW\obj\Debug\net6.0\ref\week2-HW.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\bin\Debug\net6.0\week2-HW.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\bin\Debug\net6.0\week2-HW.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\bin\Debug\net6.0\week2-HW.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\bin\Debug\net6.0\week2-HW.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\bin\Debug\net6.0\week2-HW.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\refint\week2-HW.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\week2-HW.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week2-HW- if, else if, switch\obj\Debug\net6.0\ref\week2-HW.dll

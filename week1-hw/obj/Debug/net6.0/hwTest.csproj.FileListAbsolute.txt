@@ -1,0 +1,15 @@
+C:\cs2019\ch02\ch03流程控制\hwTest\bin\Debug\net6.0\hwTest.exe
+C:\cs2019\ch02\ch03流程控制\hwTest\bin\Debug\net6.0\hwTest.deps.json
+C:\cs2019\ch02\ch03流程控制\hwTest\bin\Debug\net6.0\hwTest.runtimeconfig.json
+C:\cs2019\ch02\ch03流程控制\hwTest\bin\Debug\net6.0\hwTest.dll
+C:\cs2019\ch02\ch03流程控制\hwTest\bin\Debug\net6.0\hwTest.pdb
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.csproj.AssemblyReference.cache
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.AssemblyInfoInputs.cache
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.AssemblyInfo.cs
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.csproj.CoreCompileInputs.cache
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.dll
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\refint\hwTest.dll
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.pdb
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\hwTest.genruntimeconfig.cache
+C:\cs2019\ch02\ch03流程控制\hwTest\obj\Debug\net6.0\ref\hwTest.dll

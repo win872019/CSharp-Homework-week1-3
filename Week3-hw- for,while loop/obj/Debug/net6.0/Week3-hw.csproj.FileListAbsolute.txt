@@ -1,0 +1,29 @@
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\bin\Debug\net6.0\Week3-hw.exe
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\bin\Debug\net6.0\Week3-hw.deps.json
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\bin\Debug\net6.0\Week3-hw.runtimeconfig.json
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\bin\Debug\net6.0\Week3-hw.dll
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\bin\Debug\net6.0\Week3-hw.pdb
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.AssemblyInfo.cs
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.dll
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\refint\Week3-hw.dll
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.pdb
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\Week3-hw.genruntimeconfig.cache
+C:\Users\Chung\Desktop\CSharp2019\practice\Week3-hw\obj\Debug\net6.0\ref\Week3-hw.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\bin\Debug\net6.0\Week3-hw.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\bin\Debug\net6.0\Week3-hw.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\bin\Debug\net6.0\Week3-hw.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\bin\Debug\net6.0\Week3-hw.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\bin\Debug\net6.0\Week3-hw.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\refint\Week3-hw.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\Week3-hw.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week3-hw- for,while loop\obj\Debug\net6.0\ref\Week3-hw.dll
